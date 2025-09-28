@@ -435,6 +435,16 @@ i {
 }
 
 
+@media only screen and (min-width:320px) and (max-width:480px){
+    .resume .resume_left {
+        background: #95c046 !important; /* fuerza el mismo color que en desktop */
+        padding: 40px; /* mismo padding que desktop si quieres */
+    }
+
+    .resume_left .resume_profile {
+        border-color: #65913e !important; /* igual que desktop */
+    }
+}
 
 
 
