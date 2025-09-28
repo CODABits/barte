@@ -1,2 +1,2 @@
-# BreitBits.hojadevida.io
-# BreitBits.hojaVida.github.co
+# BreitBits.io
+# BreitBitb.co
